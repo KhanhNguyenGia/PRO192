@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CarManager_ASM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarManager_ASM_jar</output-path>
+    <root id="archive" name="CarManager_ASM.jar">
+      <element id="module-output" name="CarManager_ASM" />
+    </root>
+  </artifact>
+</component>
